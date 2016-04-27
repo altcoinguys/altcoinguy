@@ -1,0 +1,9 @@
+Building RedCrowCoin
+
+See doc/readme-qt.rst for instructions on building RedCrowCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of RedCrowCoin.
+
+See doc/build-*.txt for instructions on building redcrowcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of RedCrowCoin.
